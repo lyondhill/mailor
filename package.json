@@ -1,0 +1,16 @@
+{
+  "author": "Lyon Hill <lyondhill@gmail.com>",
+  "name": "mailor",
+  "description": "a http mail client that uses credentials to send email",
+  "version": "0.0.0",
+  "homepage": "www.pagodabox.com",
+  "repository": {
+    "url": ""
+  },
+  "main": "bin",
+  "engines": {
+    "node": "0.6.2"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
