@@ -11,6 +11,11 @@
   "engines": {
     "node": "0.6.2"
   },
-  "dependencies": {},
+  "dependencies": {
+    "nodemailer": "git@github.com:lyondhill/Nodemailer.git",
+    "mongodb": "",
+    "cluster":""
+
+  },
   "devDependencies": {}
 }
